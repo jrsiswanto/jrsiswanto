@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying on UPN Veteran Jawa Timur
+- 🌱 I’m currently learning Javascript
+
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG40ejR2ejQyZG16dW5vcGF2azB5eHQ1bHRpbmpxc3Yxajg4OXd2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlBDoVLOGidEc/giphy.gif)
